@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Daftar Partai Politik Indonesia</string>
+
+    <string name="parpol_name">Nama Parpol</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Partai PDIP</item>
+        <item>Partai GOLKAR</item>
+        <item>Partai NASDEM</item>
+        <item>Partai PKB</item>
+        <item>Partai GERINDRA</item>
+        <item>Partai DEMOKRAT</item>
+        <item>Partai PKS</item>
+        <item>Partai PAN</item>
+        <item>Partai PERINDO</item>
+        <item>Partai PSI</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pada Kongres Nasional 1993, Megawati Soekarnoputri terpilih sebagai Ketua Umum Partai Demokrasi Indonesia, salah satu dari tiga partai politik yang diakui oleh pemerintahan "Orde Baru" Presiden Soeharto. Hasil ini tidak diakui oleh pemerintah, yang terus mendorong Budi Harjono, calon ketua umum yang dipilihnya, untuk dipilih. Kongres Khusus diadakan di mana pemerintah mengharapkan Harjono terpilih, tetapi Megawati sekali lagi muncul sebagai pemimpin terpilih. Posisinya semakin terkonsolidasi ketika Majelis Nasional PDI meratifikasi hasil kongres.</item>
+        <item>Partai Golongan Karya atau secara umum disingkat dengan Partai Golkar adalah sebuah partai politik di Indonesia. Didirikan sebagai Sekber Golkar (Sekretariat Bersama Golongan Karya, Sekretariat Gabungan Golongan Karya) pada tahun 1964, dan berpartisipasi untuk pertama kalinya dalam pemilihan umum nasional pada 1971 sebagai Golkar (Golongan Karya). Partai Golongan Karya tidak resmi menjadi partai politik sampai tahun 1999, ketika itu diperlukan untuk menjadi sebuah partai untuk kontes pemilihan.</item>
+        <item>Partai NasDem adalah sebuah partai politik di Indonesia yang didirikan berdasarkan akta notaris pada tanggal 1 Februari 2011 di Jakarta. Partai NasDem dideklarasikan pada tanggal 26 Juli 2011, lalu didaftarkan pada Kementerian Hukum dan Hak Asasi Manusia pada tanggal 27 Juli 2011. Partai NasDem ditetapkan oleh Kementerian Hukum dan Hak Asasi Manusia sebagai badan hukum pada tanggal 11 November 2011 dan ditetapkan sebagai tanggal pendirian Partai NasDem</item>
+        <item>Partai Kebangkitan Bangsa (PKB), adalah sebuah partai politik berideologi Moderat di Indonesia. Partai ini didirikan di Jakarta pada tanggal 23 Juli 1998 (29 Rabiul Awal 1419 Hijriyah) yang dideklarasikan oleh para kiai-kiai Nahdlatul Ulama, seperti Munasir Ali, Ilyas Ruhiat, Abdurrahman Wahid, Mustofa Bisri, Zuhdi Fatkur dan Muhith Muzadi).</item>
+        <item>Partai Gerakan Indonesia Raya (Gerindra) adalah sebuah partai politik di Indonesia. Dibentuk pada tahun 2008, Gerindra berfungsi sebagai kendaraan politik mantan jenderal Prabowo Subianto. Saat ini Gerindra adalah partai kedua terbesar di Indonesia berdasarkan hasil perolehan suara Pemilihan Umum Legislatif 2019, dan partai terbesar ketiga di DPR dengan 78 kursi. DEMOKRAT</item>
+        <item>Partai Demokrat atau secara umum disingkat dengan Demokrat adalah sebuah partai politik Indonesia. Partai ini didirikan pada 9 September 2001 dan disahkan pada 27 Agustus 2003. Pendirian partai ini erat kaitannya dengan niat untuk membawa Susilo Bambang Yudhoyono, yang kala itu menjadi Menteri Koordinator bidang Politik dan Keamanan di bawah Presiden Megawati, menjadi presiden. Karena hal inilah, Partai Demokrat terkait kuat dengan figur Yudhoyono.</item>
+        <item>Partai Keadilan Sejahtera (PKS) adalah sebuah partai politik berbasis Islam di Indonesia. Partai ini bercikal bakal dari penentangan sejumlah tokoh Islam terhadap kebijakan Presiden RI ke-2, Suharto yang mengharuskan agar tiap-tiap ormas menjadikan Pancasila sebagai asas mereka. Dari penentangan ini lahirlah gerakan-gerakan tarbiyah yang memiliki keterkaitan dengan Ikhwanul Muslimin, organisasi asal Mesir yang kini dikategorikan sebagai organisasi teroris oleh sejumlah negara seperti Arab Saudi, Uni Emirat Arab, Rusia dan Mesir sendiri. Gerakan-gerakan tarbiyah ini lalu membentuk lembaga dakwah kampus yang kemudian menjadi asal usul berdirinya Partai Keadilan pada 20 Juli 1998 pasca lengsernya pemerintahan Suharto.</item>
+        <item>Partai Amanat Nasional (disingkat: PAN) adalah sebuah partai politik di Indonesia. Asas partai ini adalah Akhlak Politik Berlandaskan Agama yang Membawa Rahmat bagi Sekalian Alam (AD Bab II, Pasal 3 ). PAN didirikan oleh Amien Rais pada tanggal 23 Agustus 1998 berdasarkan pengesahan Depkeh HAM No. M-20.UM.06.08 tgl. 27 Agustus 2003. Ketua Umum saat ini adalah Zulkifli Hasan. Ketua Majelis Pertimbangan Partai dijabat oleh Hatta Rajasa, Tatong Bara, Yasti Seoprejo Mokoagow, sedangkan Ketua Dewan Kehormatan Partai dijabat oleh Soetrisno Bachir.</item>
+        <item>Partai Persatuan Indonesia atau biasa disingkat Partai Perindo adalah sebuah partai politik di Indonesia. Partai ini didirikan oleh Hary Tanoesoedibjo, pengusaha dan pemilik perusahaan konglomerat multinasional MNC Group. Awalnya Perindo adalah organisasi kemasyarakatan yang dideklarasikan pada 24 Februari 2013 di Istora Senayan, Jakarta.Perindo kemudian didirikan sebagai partai politik pada tanggal 8 Oktober 2014 dan dideklarasikan pada 7 Februari 2015 di Jakarta International Expo, Kemayoran, Jakarta. Pada acara deklarasi tersebut, dihadiri oleh beberapa petinggi Koalisi Merah Putih (KMP), seperti Ketua Umum Partai Golkar Aburizal Bakrie, Ketua Umum Partai Amanat Nasional Hatta Rajasa, Presiden Partai Keadilan Sejahtera Anis Matta, dan Ketua Umum Partai Persatuan Pembangunan Djan Faridz. Selain itu juga hadir Wiranto, Ketua Umum Hanura.</item>
+        <item>Partai Solidaritas Indonesia (disingkat PSI) adalah partai politik di Indonesia yang didirikan pasca Pemilu tahun 2014.Partai ini diketuai oleh Giring Ganesha sejak 16 November 2021. Partai ini cenderung mengambil target partisipan kalangan anak muda, perempuan, dan lintas agama.PSI didirikan untuk menggalang gerakan politik yang dilandasi oleh rasa solidaritas untuk kemanusiaan. Hal tersebut dikarenakan partai ini meyakini bahwa yang lebih penting dari politik adalah kemanusiaan</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/logo_pdip</item>
+        <item>@drawable/logo_golkar</item>
+        <item>@drawable/logo_nasdem</item>
+        <item>@drawable/logo_pkb</item>
+        <item>@drawable/logo_gerindra</item>
+        <item>@drawable/logo_pd</item>
+        <item>@drawable/logo_pks</item>
+        <item>@drawable/logo_pan</item>
+        <item>@drawable/logo_perindo</item>
+        <item>@drawable/logo_psi</item>
+    </integer-array>
+
+    <string-array name="data_leader">
+        <item>Megawati Soekarnoputri</item>
+        <item>Airlangga Hartarto</item>
+        <item>Surya Paloh</item>
+        <item>Muhaimin Iskandar</item>
+        <item>Prabowo Subianto</item>
+        <item>Agus Harimurti Yudhoyono</item>
+        <item>Ahmad Syaikhu</item>
+        <item>Zulkifli Hasan</item>
+        <item>Hary Tanoesoedibjo</item>
+        <item>Giring Ganesha</item>
+    </string-array>
+
+    <string-array name="data_born">
+        <item>10 Januari 1973</item>
+        <item>20 Oktober 1964</item>
+        <item>26 Juli 2011</item>
+        <item>23 Juli 1998</item>
+        <item>6 Februari 2008</item>
+        <item> 9 September 2001</item>
+        <item>20 Juli 1998</item>
+        <item>23 Agustus 1998</item>
+        <item>8 Oktober 2014</item>
+        <item>16 November 2014</item>
+    </string-array>
+
+
+</resources>
